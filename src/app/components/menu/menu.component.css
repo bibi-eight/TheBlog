@@ -9,7 +9,8 @@
 }
 
 .container_menu > ul > li a:hover {
-    background-color: tomato;
+    background-color: white;
+    color: black;
     padding: 6px 10px;
     border-radius: 6px;
     }
