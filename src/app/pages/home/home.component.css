@@ -6,6 +6,11 @@
     justify-content: center;
 }
 
+
+.aticles-main{
+    margin-bottom: 300px;
+}
+
 @media (max-width: 768px){
     .articles{
         flex-direction: column;

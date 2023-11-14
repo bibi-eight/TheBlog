@@ -1,5 +1,4 @@
-<div class = "container-bigCard">
-    <!-- conteudo mockado -->
+<!-- <div class = "container-bigCard">
     <div class = "bigCard-photo">
         <img [src]="photoCover" alt="" height="200px" width="200px" />
     </div>
@@ -13,4 +12,22 @@
             </a>
         </p>
     </div>
+</div> -->
+
+
+
+<div class="big-card-container" [routerLink] = "['content', Id]">
+    <img [src]="photoCover" alt="" />
+
+    <div class="big-card-content">
+        <h1 class="big-card-title">
+            {{cardTitle}}
+        </h1>
+        <p>
+            <a>
+                {{ cardDescription }}
+            </a>
+        </p>
+    </div>
+
 </div>
