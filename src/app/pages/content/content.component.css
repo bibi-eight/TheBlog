@@ -12,7 +12,8 @@
 
 .content-capa > img{
     border: 5px solid rgb(144, 144, 144);
-    margin: 15px;
+    margin-top: 20px;
+    margin-bottom: 25px;
     width: 500px;
     min-width: 500px;
     height: 300px;
