@@ -26,8 +26,9 @@ export const dataFake = [
     }, 
     {
         "id": "4",
-        "title": "ola",
-        "description": "saiu a noticia",
-        "photoCover": "/assets/midia/WO.jpg"
+        "title": "Pokedex",
+        "description": "A pokedex foi meu primeiro contato com um projeto de frotend, no inicio dos meus estudos. Ainda tem muito o que melhorar mas está pronta e funcional do seu jeitinho mais simples. "+
+        "O projeto tem html, css simples, e javascript utilizado na conexão com a pokeApi. Futuramente desejo fazer uma nova versão usando Angular",
+        "photoCover": "/assets/midia/pokdexresponsivo.png"
     }
 ]
