@@ -22,7 +22,7 @@
     margin-right: 20px;
 }
 
-.smallCard-photo:hover{
+.container_smallCard:hover{
     filter: brightness(0.9);
     cursor: pointer;
 }
