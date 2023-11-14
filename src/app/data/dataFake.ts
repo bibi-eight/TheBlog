@@ -10,7 +10,7 @@ export const dataFake = [
     },
     {
         "id": "2",
-        "title": "Woman Opportunities",
+        "title": "Women Opportunities",
         "description": "W.O. foi o projeto final de formação - TCC - do meu ensino médio técnico em desenvolvimento de sistemas no Colégio Pedro II, feito no final de 2021 e inicio de 2022. " +
         "A ideia era criar uma plataforma semelhante ao linkedin, com a diferença de ter oportunidades majoritariamente voltadas para o público feminino. Mulheres de todas as idades teriam " +
         "uma plataforma onde poderiam encontrar e divulgar vagas de estagio, bolsas de estudo e emprego. O projeto foi feito durante a pandemia, e com as limitações impostas acabou não se " +
