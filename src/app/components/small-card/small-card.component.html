@@ -1,10 +1,10 @@
-<div class = "container_smallCard">
+<div class = "container_smallCard" [routerLink] = "['content', Id]">
     <div class = "container_smallCard-content">
         <div class = "smallCard-photo">
             <img src="{{ photoCover }}" alt="">
         </div>
         <div class = "smallCard-title">
-            <h1><a [routerLink]="['content', Id]">{{ cardTitle }}</a></h1>
+            <h1>{{ cardTitle }}</h1>
         </div>
     </div>
     <div class = "container_smallCard-separator">
