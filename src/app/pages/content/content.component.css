@@ -1,5 +1,4 @@
 .container-content{
-    border: 1px solid white;
     width: 100%;
     height: 100vh;
 
@@ -13,6 +12,7 @@
 
 .content-capa > img{
     border: 5px solid rgb(144, 144, 144);
+    margin-top: 15px;
     width: 500px;
     min-width: 500px;
     height: 300px;
@@ -24,4 +24,8 @@
 
 .content-description > p{
     color: grey;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 400px;
+    margin-right:400px;
 }
